@@ -12,7 +12,7 @@
 
 <h4 align="left">🤝 I’m looking to collaborate on open source projects<br><br>📫 How to reach me agayev.001@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/agayev001/</h4>
 
-### <p>Te</p>
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
