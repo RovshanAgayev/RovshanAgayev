@@ -13,7 +13,6 @@
 <a href="https://twitter.com/rovshan_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rovshan_001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agayev001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agayev001/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7594597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7594597" height="30" width="40" /></a>
-<a href="https://fb.com/agayev.001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="agayev.001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@rovshan.agayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rovshan.agayev" height="30" width="40" /></a>
 </p>
 
