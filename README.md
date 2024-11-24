@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🤝 I’m looking to collaborate on open source projects<br><br>📫 How to reach me agayev.001@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/agayev001/</h4>
+<h4 align="left">🤝 I’m looking to collaborate on:  open source projects<br><br>📫 How to reach me:  agayev.001@gmail.com<br><br>📄 Know about my experiences:  https://www.linkedin.com/in/agayev001/</h4>
 
 ###
 
