@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rovshan Agayev</h1>
 <h3 align="center">Freelance Developer & Technical Trainer</h3>
-<h4 align="center">Over 9 years of experience with Microsoft .NET technologies like C#, ASP.NET, SQL Server, Entity Framework ADO.NET, WCF, Windows Service and other technologies like HTML, CSS, JavaScript, JQuery, AJAX,MySQL,Sqlite and etc.</h4>
+<h4 align="center">Over 10 years of experience with Microsoft .NET technologies like C#, ASP.NET, SQL Server, Entity Framework ADO.NET, WCF, Windows Service and other technologies like HTML, CSS, JavaScript, JQuery, AJAX,MySQL,Sqlite and etc.</h4>
 
 - 🤝 I’m looking to collaborate on **open source projects**
 
